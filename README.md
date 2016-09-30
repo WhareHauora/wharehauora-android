@@ -9,3 +9,7 @@ Android app
 
 # Build status
 [![Build Status](https://www.bitrise.io/app/db812e7f9d0d1dee.svg?token=_sXyPYN2YlAOyFenN-A0fw)](https://www.bitrise.io/app/db812e7f9d0d1dee)
+
+# Installation
+
+Bitwise has [the latest build from master](https://www.bitrise.io/artifact/536001/p/5da3b6c6e5f2bc86a016fdc9c94be128)
