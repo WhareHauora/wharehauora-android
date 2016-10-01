@@ -1,14 +1,14 @@
 # whareora-android
 
-Android app 
+Whare Haurora android app for residents
+
+[![Build Status](https://travis-ci.org/Br3nda/wharehauora-android.svg?branch=bw%2Ftravis)](https://travis-ci.org/Br3nda/wharehauora-android)
+[![Build Status](https://www.bitrise.io/app/db812e7f9d0d1dee.svg?token=_sXyPYN2YlAOyFenN-A0fw)](https://www.bitrise.io/app/db812e7f9d0d1dee)
 
 # Goals
 * Configuring sensor gateways in your home.
 * Suggestions to improve home, e.g. cling film on windows, opening bathoom window
 * Analyses the effect of any things, does regular airing lower moisture levels, and if so, by how much
-
-# Build status
-[![Build Status](https://www.bitrise.io/app/db812e7f9d0d1dee.svg?token=_sXyPYN2YlAOyFenN-A0fw)](https://www.bitrise.io/app/db812e7f9d0d1dee)
 
 # Installation
 
