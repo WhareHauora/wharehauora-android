@@ -4,6 +4,7 @@ Whare Haurora android app for residents
 
 [![Build Status](https://travis-ci.org/Br3nda/wharehauora-android.svg?branch=bw%2Ftravis)](https://travis-ci.org/Br3nda/wharehauora-android)
 [![Build Status](https://www.bitrise.io/app/db812e7f9d0d1dee.svg?token=_sXyPYN2YlAOyFenN-A0fw)](https://www.bitrise.io/app/db812e7f9d0d1dee)
+[![Code Climate](https://codeclimate.com/github/WhareHauora/wharehauora-android/badges/gpa.svg)](https://codeclimate.com/github/WhareHauora/wharehauora-android)
 
 # Goals
 * Configuring sensor gateways in your home.
