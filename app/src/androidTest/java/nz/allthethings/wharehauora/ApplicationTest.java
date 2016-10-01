@@ -1,4 +1,4 @@
-package nz.allthethings.whareora;
+package nz.allthethings.wharehauora;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
