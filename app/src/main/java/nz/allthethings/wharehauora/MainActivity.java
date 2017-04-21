@@ -1,4 +1,4 @@
-package nz.allthethings.whareora;
+package nz.allthethings.wharehauora;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
