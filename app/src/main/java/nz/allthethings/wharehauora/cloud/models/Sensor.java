@@ -1,6 +1,7 @@
 package nz.allthethings.wharehauora.cloud.models;
 
 import java.util.Date;
+
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 

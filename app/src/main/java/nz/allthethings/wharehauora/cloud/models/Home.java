@@ -1,7 +1,5 @@
 package nz.allthethings.wharehauora.cloud.models;
 
-//        package nz.wharehauora.cloud.models;
-
 import java.util.Date;
 
 import com.google.gson.annotations.Expose;
